@@ -158,6 +158,7 @@ public class OperatiorMain {
         int anyNum = 7;
         // 2로 나눈 나머지가 0이먄 짝수, 1이면 홀수
         System.out.println(anyNum % 2);
+        System.out.printf("anyskdjfa");
 
 
     }
